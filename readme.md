@@ -1,4 +1,5 @@
 ## Hex On 
+Command line utility 
 
 prints the hex values of chars below each line of file 
 
