@@ -1,11 +1,11 @@
 ## Hex On 
 
-prints the hex values of chars below each line of the file 
+prints the hex values of chars below each line of file 
 
 can take input from files passed as arguments or from stdin 
 
 
-#### Make executable 
+### Make executable 
 
 change permissions  
 
@@ -17,11 +17,11 @@ remove extension and add to bin (change to system version tested on mac)
 
 
 
-#### file 
+### file 
 ``` hexon test.txt othertest.txt```
 
 
-#### stdin 
+### stdin 
 ``` echo Hello World | hexon```
 
 
