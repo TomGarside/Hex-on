@@ -6,7 +6,7 @@ can take input from files passed as arguments or from stdin
 
 Will print in the format:
 
-` Hello World  `\n
-`|466662567662x|`\n
-`|85ccf07f2c40a|`\n
+` Hello World  `<br>
+`|466662567662x|`<br>
+`|85ccf07f2c40a|`<br>
 
